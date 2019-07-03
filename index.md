@@ -5,7 +5,7 @@
 
 Now you can automate your research for journals on [IEEE Xplore](http://ieeexplore.ieee.org/).
 
-![QR Code](qr-code.png)
+![QR Code](qr_code.png)
 ---
 
 # Setup
