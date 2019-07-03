@@ -66,7 +66,7 @@ The general process:
 
 ![Investment Payback](investment_payback.jpeg)
 
-# Creator
+# Creators
 * Jan Leppich
 * Michael Orologas
 * Tobias Müller
