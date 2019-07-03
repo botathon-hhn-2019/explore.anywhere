@@ -15,7 +15,7 @@ Download and install the Community Edition from [Automation Anywhere](https://ww
 
 ### Download File
 
-Download the project files and move it to your `My Tasks` folder (e.g. `C:\Users\NAME\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks`).
+Download the [project files](project.zip) and move it to your `My Tasks` folder (e.g. `C:\Users\NAME\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks`).
 
 ---
 
@@ -25,6 +25,24 @@ This project was created on a botathon organised by Hochschule Heilbronn and dig
 The goal was to automate processes with Automation Anywhere to save resources by saving time.
 
 ![Botathon](botathon_hhn.png)
+
+---
+
+# Challenge (german)
+
+### Herausforderung
+Heute stehen Wissenschaftler und Studierende vor der großen Herausforderungen, dass mehr veröffentlicht wird,
+als man tatsächlich vernünftig analysieren und verarbeiten kann. Damit mehr Zeit zum Lesen der relevanten Publikationen bleibt, soll ein Roboter in den verschiedenen Datenbanken (z.B.  WISO, Statista, IEEE) oder Online-bibliotheken (z.B. Springer, Elsevier) die relevanten Veröffentlichungen suchen und bereitstellen
+
+### Ziel
+* Übergabe des Suchbegriffs an den Roboter
+* Zugang über die Webseite der Anbieter und Ausführen der Suche
+* Download der Publikationen als PDF in einen lokalen Ergebnisordner
+
+### Erweiterungsoptionen
+* Weitere Auswahloptionen für den Auftraggeber der Recherche (z.B. Erscheinungsjahr neuer als x, Sprache, etc.)
+* Zusätzliche Erstellung einer Excel oder CSV mit den Daten der heruntergeladenen Publikationen
+* Zusätzliche Verifikation, ob der Suchbegriff auch (mehrfach) im Abstract vorkommt
 
 
 ---
