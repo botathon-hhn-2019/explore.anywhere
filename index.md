@@ -1,4 +1,6 @@
-![Image of AA](https://www.automationanywhere.com/images/automation-anywhere-logo-corporate-two-line-lg.png)
+![Automation Anywhere](automation-anywhere-logo-corporate-two-line-lg.png)
+
+![IEEEXplore](IEEE-XploreDigitalLibrary.jpg)
 
 # Welcome to Explore Anywhere
 
