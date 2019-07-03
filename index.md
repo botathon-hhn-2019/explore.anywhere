@@ -35,7 +35,7 @@ The goal was to automate processes with Automation Anywhere to save resources by
 
 ### Herausforderung
 Heute stehen Wissenschaftler und Studierende vor der großen Herausforderungen, dass mehr veröffentlicht wird,
-als man tatsächlich vernünftig analysieren und verarbeiten kann. Damit mehr Zeit zum Lesen der relevanten Publikationen bleibt, soll ein Roboter in den verschiedenen Datenbanken (z.B.  WISO, Statista, IEEE) oder Online-bibliotheken (z.B. Springer, Elsevier) die relevanten Veröffentlichungen suchen und bereitstellen
+als man tatsächlich vernünftig analysieren und verarbeiten kann. Damit mehr Zeit zum Lesen der relevanten Publikationen bleibt, soll ein Roboter in den verschiedenen Datenbanken (z.B.  WISO, Statista, IEEE) oder Online-bibliotheken (z.B. Springer, Elsevier) die relevanten Veröffentlichungen suchen und bereitstellen
 
 ### Ziel
 * Übergabe des Suchbegriffs an den Roboter
