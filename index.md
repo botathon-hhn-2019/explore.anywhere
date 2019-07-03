@@ -61,3 +61,8 @@ The general process:
 ![Spiderweb](spiderweb.jpeg)
 
 ![Investment Payback](investment_payback.jpeg)
+
+# Creator
+* Jan Leppich
+* Michael Orologas
+* Tobias Müller
