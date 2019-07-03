@@ -20,3 +20,7 @@ Download the `.atmx` file and move it to your `My Tasks` folder (e.g. `C:\Users\
 ---
 
 # About the Project
+
+This project was created on the botathon organised by Hochschule Heilbronn and digitalsphere.
+The goal was to automate processes with Automation Anywhere to save resources by saving time.
+[Botathon](botathon_hhn.png)
