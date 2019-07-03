@@ -1,4 +1,4 @@
-![Explore Anywhere](exploreanywhere.png)
+![Explore Anywhere](explore_anywhere.png)
 
 
 # Welcome to Explore Anywhere
