@@ -26,6 +26,13 @@ The goal was to automate processes with Automation Anywhere to save resources by
 
 ![Botathon](botathon_hhn.png)
 
+
+---
+
+# Process
+The general process:
+![General Process](generalprocess.png)
+
 ---
 
 # Financial Reasons
@@ -33,13 +40,3 @@ The goal was to automate processes with Automation Anywhere to save resources by
 ![Spiderweb](spiderweb.jpeg)
 
 ![Investment Payback](investment_payback.jpeg)
-
----
-
-# Process
-The general process:
-![General Process](general_process.png)
-
-# Process in detail
-The process in detail:
-![Detail Process](general_process.png)
