@@ -15,7 +15,7 @@ Download and install the Community Edition from [Automation Anywhere](https://ww
 
 ### Download File
 
-Download the [project files](explore_anywhere.zip) and move it to your `My Tasks` folder (e.g. `C:\Users\NAME\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks`).
+Download the [project files](https://github.com/botathon-hhn-2019/explore.anywhere/blob/master/explore_anywhere.zip) and move it to your `My Tasks` folder (e.g. `C:\Users\NAME\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks`).
 
 ---
 
