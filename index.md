@@ -9,11 +9,11 @@ Now you can automate your research for journals on [IEEE Xplore](http://ieeexplo
 
 # Setup
 
-## Install Automation Anywhere
+### Install Automation Anywhere
 
 Download and install the Community Edition from [Automation Anywhere](https://www.automationanywhere.com/de/lp/rpa-editions-comparison).
 
-## Download File
+### Download File
 
 Download the `.atmx` file and move it to your `My Tasks` folder (e.g. `C:\Users\NAME\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks`).
 
