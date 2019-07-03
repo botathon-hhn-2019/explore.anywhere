@@ -25,3 +25,4 @@ This project was created on a botathon organised by Hochschule Heilbronn and dig
 The goal was to automate processes with Automation Anywhere to save resources by saving time.
 
 ![Botathon](botathon_hhn.png)
+
