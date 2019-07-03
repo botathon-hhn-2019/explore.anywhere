@@ -2,9 +2,17 @@
 
 # Welcome to Explore Anywhere
 
-Use this to automate your downloads on [IEEE Xplore](http://ieeexplore.ieee.org/)
+Now you can automate your research for journals on [IEEE Xplore](http://ieeexplore.ieee.org/).
+Just enter your keyword and your parameter.
 
-## Automation Anywhere Installation
+---
 
-Download and install the Community Edition from [Automation Anywhere](https://www.automationanywhere.com/de/lp/rpa-editions-comparison)
+# Setup
 
+## Install Automation Anywhere
+
+Download and install the Community Edition from [Automation Anywhere](https://www.automationanywhere.com/de/lp/rpa-editions-comparison).
+
+## Download File
+
+Download the ".atmx" file and move it to your "My Tasks" folder (for example "C:\Users\NAME\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks").
