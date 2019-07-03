@@ -26,10 +26,20 @@ The goal was to automate processes with Automation Anywhere to save resources by
 
 ![Botathon](botathon_hhn.png)
 
-## Process
+---
+
+# Financial Reasons
+
+![Spiderweb](spiderweb.jpeg)
+
+![Investment Payback](investment_payback.jpeg)
+
+---
+
+# Process
 The general process:
 ![General Process](general_process.png)
 
-## Process in details
-The process in details:
+# Process in detail
+The process in detail:
 ![Detail Process](general_process.png)
