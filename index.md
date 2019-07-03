@@ -1,4 +1,4 @@
-[Image](https://www.automationanywhere.com/images/automation-anywhere-logo-corporate-two-line-lg.png)
+![Image of AA](https://www.automationanywhere.com/images/automation-anywhere-logo-corporate-two-line-lg.png)
 
 ## Welcome to GitHub Pages
 
