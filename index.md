@@ -26,3 +26,10 @@ The goal was to automate processes with Automation Anywhere to save resources by
 
 ![Botathon](botathon_hhn.png)
 
+## Process
+The general process:
+![General Process](general_process.png)
+
+## Process in details
+The process in details:
+![Detail Process](general_process.png)
