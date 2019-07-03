@@ -1,4 +1,4 @@
-![Automation Anywhere](automation-anywhere-logo-corporate-two-line-lg.png) ![IEEEXplore](IEEE-XploreDigitalLibrary.jpg)
+![Explore Anywhere](exploreanywhere.png)
 
 
 # Welcome to Explore Anywhere
