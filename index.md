@@ -13,7 +13,7 @@ Now you can automate your research for journals on [IEEE Xplore](http://ieeexplo
 
 Download and install the Community Edition from [Automation Anywhere](https://www.automationanywhere.com/de/lp/rpa-editions-comparison).
 
-### Download File
+### Download files
 
 Download the [project files](https://github.com/botathon-hhn-2019/explore.anywhere/blob/master/explore_anywhere.zip?raw=true) and move it to your `My Tasks` folder (e.g. `C:\Users\NAME\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks`).
 
