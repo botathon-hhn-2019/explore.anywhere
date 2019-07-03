@@ -15,7 +15,7 @@ Download and install the Community Edition from [Automation Anywhere](https://ww
 
 ### Download File
 
-Download the `.atmx` file and move it to your `My Tasks` folder (e.g. `C:\Users\NAME\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks`).
+Download the project files and move it to your `My Tasks` folder (e.g. `C:\Users\NAME\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks`).
 
 ---
 
