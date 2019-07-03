@@ -3,7 +3,6 @@
 # Welcome to Explore Anywhere
 
 Now you can automate your research for journals on [IEEE Xplore](http://ieeexplore.ieee.org/).
-Just enter your keyword and your parameter.
 
 ---
 
@@ -16,3 +15,7 @@ Download and install the Community Edition from [Automation Anywhere](https://ww
 ## Download File
 
 Download the ".atmx" file and move it to your "My Tasks" folder (for example "C:\Users\NAME\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks").
+
+---
+
+# About the Project
