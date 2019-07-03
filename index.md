@@ -15,7 +15,7 @@ Download and install the Community Edition from [Automation Anywhere](https://ww
 
 ### Download File
 
-Download the [project files](project.zip) and move it to your `My Tasks` folder (e.g. `C:\Users\NAME\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks`).
+Download the [project files](explore_anywhere.zip) and move it to your `My Tasks` folder (e.g. `C:\Users\NAME\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks`).
 
 ---
 
@@ -28,7 +28,7 @@ The goal was to automate processes with Automation Anywhere to save resources by
 
 ---
 
-# Challenge (german)
+# Challenge Impuls II – State of Art 2.0 (german)
 
 ### Herausforderung
 Heute stehen Wissenschaftler und Studierende vor der großen Herausforderungen, dass mehr veröffentlicht wird,
